@@ -1,3 +1,10 @@
+<details>
+<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
+<br>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/GODFATHER_SPAM2.1)
+  
+</details>
 > ***Important Notice ‼️*** ``Its may possible this script will no longer will be worker and i havent much time to update it and make it workable. If you want to a workable script or paid scirpt message me on `` 👉🏻 **Instagram** [@\_Prince.Babu\_](https://instagram.com/saifaliopp) or 👉🏻 **Telegram** [@DearSaif](https://t.me/DearSaif) 
 
 <details><summary><h3>ABOUT😎</h3></summary>
